@@ -3,4 +3,6 @@
 （2）逐笔成交
 （3）十档盘口
 
-有需要的联系VX Zero_perceive   
+支持全市场全推和按需个数 2种方式订阅
+
+有需要的联系VX   Zero_perceive   
